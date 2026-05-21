@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Yashwant Full-stack web developer skilled in React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and JavaScript (ES6+), with experience building REST APIs, real-time features, and automation workflows using n8n. Currently working as a Web Developer Intern at JobLuxe, focused on developing scalable and efficient web applications.  
+I'm Yashwant Full-stack web developer skilled in React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and JavaScript (ES6+), with experience building REST APIs, real-time features, and automation workflows using n8n. Currently working as a Web Developer Intern at JobLuxe, focused on developing scalable and efficient web applications.   
    
               
 ## 🌐 Socials: 
