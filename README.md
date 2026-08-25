@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Yashwant Full-stack web developer skilled in React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and JavaScript (ES6+), with experience building REST APIs, real-time features, and automation workflows using n8n. Currently working as a Web Developer Intern at JobLuxe, focused on developing scalable and efficient web applications.   
      
-                     
+                      
 ## 🌐 Socials:          
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashwant-sahu-0b008b345/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahuyashwant000@gmail.com) 
     
